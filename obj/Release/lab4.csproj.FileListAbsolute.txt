@@ -1,0 +1,9 @@
+C:\Users\К\documents\visual studio 2012\Projects\lab4\lab4\bin\Release\lab4.exe.config
+C:\Users\К\documents\visual studio 2012\Projects\lab4\lab4\bin\Release\lab4.exe
+C:\Users\К\documents\visual studio 2012\Projects\lab4\lab4\bin\Release\lab4.pdb
+C:\Users\К\documents\visual studio 2012\Projects\lab4\lab4\obj\Release\lab4.Mainform.resources
+C:\Users\К\documents\visual studio 2012\Projects\lab4\lab4\obj\Release\lab4.Properties.Resources.resources
+C:\Users\К\documents\visual studio 2012\Projects\lab4\lab4\obj\Release\lab4.csproj.GenerateResource.Cache
+C:\Users\К\documents\visual studio 2012\Projects\lab4\lab4\obj\Release\lab4.exe
+C:\Users\К\documents\visual studio 2012\Projects\lab4\lab4\obj\Release\lab4.pdb
+C:\Users\К\documents\visual studio 2012\Projects\lab4\lab4\obj\Release\lab4.csprojResolveAssemblyReference.cache
